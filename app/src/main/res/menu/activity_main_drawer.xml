@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_store_mall_directory_black_24dp"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/nav_comida"
+        android:icon="@drawable/ic_talheres_24dp"
+        android:title="@string/menu_alimentos" />
+    <item
+        android:id="@+id/nav_bar"
+        android:icon="@drawable/ic_local_bar_black_24dp"
+        android:title="@string/menu_bar" />
+    <item
+        android:id="@+id/nav_higiene"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="@string/menu_higiene" />
+    <item
+        android:id="@+id/nav_limpeza"
+        android:icon="@drawable/ic_delete_sweep_black_24dp"
+        android:title="@string/menu_limpeza" />
+
+</menu>

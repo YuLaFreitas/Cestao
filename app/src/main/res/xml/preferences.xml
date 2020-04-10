@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+   <!-- <switchPreference
+        android:key="mostartBarraLeateral"
+        android:title="mostartBarraLeateral"
+        android:summary="mostartBarraLeateral"/>
+    <CheckBoxPreference
+        android:key="Atualziar automaticamente"
+        android:title="Atualziar automaticamente"
+        android:summary="Define se vai buscar atualizacao"
+        />
+    <CheckBoxPreference
+        android:key="receberBoletos"
+        android:title="receve boletos"
+        android:summary="definse se vai receber "/>
+    <EditTextPreference
+        android:key="@string/menu_doces"
+        android:title="@string/empresa"
+        android:summary="@string/menu_tabagismo"
+        android:dialogTitle="@string/menu_tabagismo"
+        android:dialogMessage="@string/empresa"
+        />
+    <ListPreference
+        android:key="@string/labRef"
+        android:title="@string/labEndereco"
+        android:summary="@string/labEndereco"
+        android:entries="@array/idiomaValores"/>-->
+</PreferenceScreen>

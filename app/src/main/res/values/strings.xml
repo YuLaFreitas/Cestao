@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CESTÃO</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">INÍCIO</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="empresa">CESTÃO</string>
+    <string name="site">http://www.grupocestao.com.br/</string>
+
+    <string name="nome">NOME</string>
+    <string name="labTel">TELEFONE</string>
+    <string name="labEndereco">ENDEREÇO</string>
+    <string name="labRef">REFERÊNCIA</string>
+    <string name="labPagamento">FORMA DE PAGAMENTO</string>
+    <string name="cartao">CARTÃO</string>
+    <string name="dinheiro">DINHEIRO</string>
+    <string name="salvar">SALVAR</string>
+    <string name="fechar">FECHAR</string>
+    <string name="configuracao">PERSONALIZAÇÃO</string>
+    <string name="credito">CREDITO</string>
+    <string name="debito">DEBITO</string>
+    <string name="valor">EM MÃOS</string>
+    <string name="menu_bar">BAR</string>
+    <string name="menu_alimentos">ALIMENTOS</string>
+    <string name="menu_limpeza">LIMPEZA</string>
+    <string name="menu_higiene">HIGIENE</string>
+    <string name="numeroTelefone">(075)981230934</string>
+    <string name="produto">PRODUTO</string>
+
+    <string name="bdTabel">tabela</string>
+    <string name="bdRotulo">rotulo</string>
+    <string name="bdPreco">preco</string>
+    <string name="bdId">_id</string>
+    <string name="bdNomeBanco">lista_de_compras</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="valorProduto">VALOR</string>
+    <string name="quant">QUANTIDADE</string>
+
+</resources>
